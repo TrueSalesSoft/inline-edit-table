@@ -1,0 +1,25 @@
+* {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#tableContainer{
+    width: 500px;
+    margin: auto;
+}
+
+.my-table tr {
+    box-shadow: 0 1px 0 0 #EAEDF3;
+}
+
+.my-table th {
+    padding: 20px;
+    color: #9EA0A5;
+    font-weight: 500;
+    line-height: 18px;
+    text-transform: uppercase;
+}
+
+.my-table td {
+    padding: 20px;
+    width: 400px;
+}
